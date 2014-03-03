@@ -1,4 +1,4 @@
-RPrograms
+Programs
 =========
 
-Programs in R
+
